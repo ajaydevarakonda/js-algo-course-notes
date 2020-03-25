@@ -1,2 +1,5 @@
-# js-algo-course-notes
-Colt steel's js algorithm course notes
+# Javascript algorithms course notes
+
+### Big O notation
+
+
